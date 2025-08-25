@@ -1,0 +1,17 @@
+[DEFAULT]
+# Supabase Configuration
+# Get these from your Supabase project dashboard
+supabase_url = https://your-project.supabase.co
+supabase_key = your-supabase-anon-key-here
+
+# OpenAI Configuration  
+# Get this from your OpenAI account dashboard
+openai_key = sk-your-openai-api-key-here
+
+# API Configuration
+api_host = 0.0.0.0
+api_port = 8000
+debug = false
+
+# Logging Configuration
+log_level = INFO
