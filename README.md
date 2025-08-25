@@ -137,9 +137,6 @@ BACKEND_URL=http://localhost:8000
 - `POST /api/chat/stream` - Process chat queries with streaming response
 - `GET /api/config` - Get configuration status
 - `POST /api/config` - Save configuration
-- `POST /api/sessions` - Create new chat session
-- `GET /api/sessions` - Get all chat sessions
-- `GET /api/sessions/{session_id}/messages` - Get messages for a session
 
 ### Frontend (Next.js)
 
